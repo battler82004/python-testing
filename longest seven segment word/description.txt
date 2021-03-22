@@ -1,3 +1,5 @@
 I created this program after watching Tom Scott's video about the longest word that can be displayed via a seven segment display. I used the same disallowed
 letters as him, but I used a different a word bank with 479k English words in it (which I edited slightly). I got this list of English words from: 
-https://github.com/dwyl/english-words.
+https://github.com/dwyl/english-words. To use this program, you may need to mess around with the location / name for the list of words. For me personally, I
+had to first create a txt file in Python, use the search bar to find it buried in some random folder, then open it and copy the list of words from the txt
+file in this folder to that file.
