@@ -1,0 +1,3 @@
+I created this program after watching Tom Scott's video about the longest word that can be displayed via a seven segment display. I used the same disallowed letters
+as him, but I used a different a word bank with 479k English words in it (which I edited slightly). I got this list of English words from: 
+https://github.com/dwyl/english-words.
